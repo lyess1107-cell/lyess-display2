@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/.well-known/appspecific/com.tesla.3p.public-key.pem","destination":"/com.tesla.3p.public-key.pem"}]}
